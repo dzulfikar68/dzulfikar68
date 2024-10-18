@@ -13,8 +13,8 @@ Peminatan:
 - Swift, obj-C (iOS, MacOS)
 - Kotlin, Java, Groovy (Android, JafaFX, SpringBoot)
 
-- PHP (Codeigniter, Laravel, Wordpress)
-- JavaScript (Jquery, VueJS, OnsenUI)
+- PHP (Codeigniter, Laravel, Wordpress/Gantry)
+- JavaScript (Jquery, VueJS, Cordova/OnsenUI)
 - Python (ML/Tensorflow, Testing/Selenium, ioT/RaspberryPi)
 
 - C# (UNITY)
