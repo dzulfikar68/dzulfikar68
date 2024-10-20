@@ -3,7 +3,7 @@
 Selamat datang di profil GitHub saya! Saya seorang pengembang Flutter yang tertarik dalam pengembangan aplikasi mobile dan web.
 
 - 🌱 Sedang mempelajari: Flutter, Swift, Unity
-- 🚀 Proyek terbaru: [Doa-Doa Harian App](https://github.com/dzulfikarfauzi/doa-doa-harian)
+- 🚀 Proyek berlangsung: [Apakaca](https://github.com/dzulfikar68/apakaca)
 
 Kemampuan:
 Android, Kotlin, Java, XML, Software Developer
