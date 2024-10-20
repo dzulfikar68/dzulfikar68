@@ -6,7 +6,12 @@ Selamat datang di profil GitHub saya! Saya seorang pengembang Flutter yang terta
 - 🚀 Proyek berlangsung: [Apakaca](https://github.com/dzulfikar68/apakaca)
 
 Kemampuan:
-Android, Kotlin, Java, XML, Software Developer
+- Android
+- Kotlin
+- Java
+- XML
+- Jquery
+- Software Developer
 
 Peminatan:
 - Flutter (Multiplatform)
