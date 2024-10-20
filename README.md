@@ -2,7 +2,7 @@
 
 Selamat datang di profil GitHub saya! Saya seorang pengembang Flutter yang tertarik dalam pengembangan aplikasi mobile dan web.
 
-- 🌱 Sedang mempelajari: Flutter, Swift, Unity
+- 🌱 Sedang mempelajari: Flutter, Swift, Unity, Jquery, Codeigniter
 - 🚀 Proyek berlangsung: [Apakaca](https://github.com/dzulfikar68/apakaca)
 
 Kemampuan:
