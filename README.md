@@ -10,7 +10,6 @@ Kemampuan:
 - Kotlin
 - Java
 - XML
-- Jquery
 - Software Developer
 
 Peminatan:
