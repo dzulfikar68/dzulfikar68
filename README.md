@@ -12,7 +12,7 @@ Kemampuan:
 
 Peminatan:
 - Flutter (Multiplatform)
-- Swift, obj-C (iOS, MacOS)
+- Swift, Obj-C (iOS, MacOS)
 - Kotlin, Java, Groovy (Android, JafaFX, SpringBoot)
 
 - PHP (Codeigniter, Laravel, Wordpress)
