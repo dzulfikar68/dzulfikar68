@@ -10,6 +10,10 @@ Kemampuan:
 - Kotlin
 - Java
 - XML
+- Web
+- HTML, CSS, JavaScript
+- Vue/ JQuery
+- Laravel/ Codeigniter
 - Software Developer
 
 Peminatan:
@@ -17,9 +21,9 @@ Peminatan:
 - Swift, obj-C (iOS, MacOS)
 - Kotlin, Java, Groovy (Android, JafaFX, SpringBoot)
 
-- PHP (Codeigniter, Laravel, Wordpress/Gantry)
-- JavaScript (Jquery, VueJS, Cordova/OnsenUI)
-- Python (ML/Tensorflow, Testing/Selenium, ioT/RaspberryPi)
+- PHP (Codeigniter, Laravel, Wordpress)
+- JavaScript (Jquery, Vue, Cordova)
+- Python (Quality Assurance, Machine Learning, ioT)
 
 - C# (UNITY)
 - C++ (QT)
